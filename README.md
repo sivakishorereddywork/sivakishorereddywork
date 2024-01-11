@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SAP MDG Junior Consultant<br>
+🔭 I’m currently seeking for Summer 2024 internships <br>
 
 
 ## 🌐 Socials:
