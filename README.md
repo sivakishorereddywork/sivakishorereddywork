@@ -46,7 +46,7 @@ ______________________________________________________________________________
   <a href="https://t.me/Sandeep_2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sandeepreddysuggu/?hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://mobile.twitter.com/suggu_sandeep" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCut7DKUZFQyiyCq71E1QaQQ" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCut7DKUZFQyiyCq71E1QaQQ" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Siva Kishore Reddy" height="30" width="40" /></a>
   </p>
 
 <hr>
