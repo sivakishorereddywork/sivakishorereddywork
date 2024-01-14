@@ -33,7 +33,7 @@ ______________________________________________________________________________
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=SugguSandeep29&label=Profile%20views&color=129e00&style=plastic" alt="SugguSandeep29" /> </p>---->
 
-- 👨‍💻 You can also check out my portfolio at https://suggusandeep29.github.io/
+<!-- 👨‍💻 You can also check out my portfolio at https://suggusandeep29.github.io/
 
 <h3 align="left">All Tech. Profiles:</h3>
 <p align="left">
