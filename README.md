@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 🔭 I’m currently seeking for Summer 2024 internships <br>
 
 
