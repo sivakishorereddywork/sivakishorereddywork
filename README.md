@@ -1,5 +1,6 @@
 
-
+<h1 align="center">Hi 👋, I'm Siva Kishore Reddy</h1>
+<h3 align="center">Hai Hello Namaste</h3>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivakishorereddy) 
 
@@ -57,8 +58,7 @@
 
 ______________________________________________________________________________
 
-<h1 align="center">Hi 👋, I'm Siva Kishore Reddy</h1>
-<h3 align="center">Hai Hello Namaste</h3>
+
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=SugguSandeep29&label=Profile%20views&color=129e00&style=plastic" alt="SugguSandeep29" /> </p>---->
 
