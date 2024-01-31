@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Siva Kishore Reddy</h1>
 <h3 align="center">Hai Hello Namaste</h3>
 
-## Latest Tweet 🐦  
+<!-- ## Latest Tweet 🐦  
 [![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-Twitter API pricing changes Killed this tool sadly
+Twitter API pricing changes Killed this tool sadly -->
 
 # 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/sivakishorereddy)
