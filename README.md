@@ -44,9 +44,3 @@ Twitter API pricing changes Killed this tool sadly -->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sivakishorereddyofficial&icon=5&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
