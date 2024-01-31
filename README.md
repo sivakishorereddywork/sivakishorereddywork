@@ -10,7 +10,7 @@ Twitter API pricing changes Killed this tool sadly -->
 </p>
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-bluestyle=flat&logo=linkedin&link=https%3A%2F%2Fgithub.com%2Fsivakishorereddyofficial"> </a>
+<a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-bluestyle=flat&logo=linkedin&link=https%3A%2F%2Fgithub.com%2Fsivakishorereddyofficial](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
 <a href="https://github.com/sivakishorereddyofficial/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
 <a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
 
