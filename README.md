@@ -20,8 +20,9 @@ Twitter API pricing changes Killed this tool sadly -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sivakishorereddyofficial&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sivakishorereddyofficial&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakishorereddyofficial&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sivakishorereddyofficial&theme=algolia&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sivakishorereddyofficial&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
