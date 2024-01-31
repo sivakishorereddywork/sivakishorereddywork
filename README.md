@@ -7,11 +7,11 @@
 Twitter API pricing changes Killed this tool sadly -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sivakishorereddy/> <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> </a>
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> </a>
 </p>
 
 # 🌐 Socials:
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+<a href="https://www.linkedin.com/in/sivakishorereddy/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
 
 
 # 💻 Tech Stack:
