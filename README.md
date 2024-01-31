@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Siva Kishore Reddy</h1>
 <h3 align="center">Hai Hello Namaste</h3>
+
 # 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivakishorereddy)
 
