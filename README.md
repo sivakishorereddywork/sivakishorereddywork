@@ -34,8 +34,8 @@ Twitter API pricing changes Killed this tool sadly -->
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Meme of the Day
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Meme of the Day
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
 
