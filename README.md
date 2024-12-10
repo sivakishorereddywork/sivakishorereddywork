@@ -1,3 +1,80 @@
+```markdown
+# Siva Kishore Reddy Putluru  
+
+**Dallas, TX** | **+1 940-595-9779** | **[Email](mailto:sivakishore.reddy.p@gmail.com)** | **[LinkedIn](#)** | **[Portfolio](#)**  
+
+---
+
+## 💼 **Summary**  
+With 2.5+ years as an Azure cloud professional, I’m transitioning into Full Stack development, leveraging Python, agile methodologies, and cloud expertise. Skilled in CI/CD pipelines, Azure DevOps, and cloud finance, I excel in delivering innovative, high-quality solutions and thrive in fast-paced, collaborative environments.  
+
+---
+
+## 🔹 **Professional Experience**  
+
+### **Azure Finance Analyst**  
+*Spektra Systems LLC | Sep 2022 - Jul 2023 | Bangalore, India*  
+- Reduced cloud costs by 25% using resource optimization, saving $75,000 through tools like Cosmos DB and MongoDB.  
+- Monitored cloud resources amidst a 30% ticket flow increase, ensuring budget adherence.  
+- Resolved resource leakage, reducing wastage by 20%, demonstrating data management expertise.  
+- Negotiated with Microsoft to recover $50,000 from client-end deployment issues, earning the "Best Achievement of the Year."  
+- **Tools:** Power BI, MS Partner Center, Data Factory, Azure Pipelines, AWS, GCP.  
+
+### **Azure Support Engineer**  
+*Spektra Systems LLC | Jul 2021 - Aug 2022 | Bangalore, India*  
+- Delivered 99.99% uptime and reduced security incidents by 20% through Azure deployments like VMs, Pipelines, and SQL Databases.  
+- Improved deployment efficiency by 30% using Azure Resource Management (ARM).  
+- Resolved 500+ client issues with a 95% customer satisfaction rating.  
+- Reduced mean time to resolution (MTTR) by 15% with new team techniques and procedures.  
+- **Tools:** JSON, ARM Templates, Azure Resources.  
+
+### **Cloud Consultant I (Internship)**  
+*Spektra Systems LLC | Mar 2021 - Jun 2021 | Bangalore, India*  
+- Boosted employee tech proficiency by 40% and production rates by 25% through advanced Hands-On Labs in Cloud Labs.  
+- Promoted continuous learning, increasing certifications by 20% and innovation projects by 15%.  
+- **Tools:** JSON, ARM Templates, Azure resources like VMs, SQL pools, Cosmos DB.  
+
+---
+
+## 💻 **Tech Stack**  
+**Languages:** Python, Java, SQL, JSON, XML, JavaScript, HTML, CSS  
+**Frameworks:** Spring MVC, RESTful APIs, Kafka, React.js, Spring Boot, Node.js, Angular  
+**Data Tools:** Pandas, Numpy, Sklearn, Power BI, Tableau, Seaborn, Matplotlib  
+**Methodologies:** SDLC, Agile/Scrum, Waterfall Model  
+**Databases & Servers:** MySQL, MongoDB, CosmosDB, AWS, Azure AKS, Amazon EKS  
+**Versioning & Containerization:** Git, GitHub, Jira, Trello  
+
+---
+
+## 🎓 **Education**  
+- **Master of Science, Computer Science**  
+  *University of North Texas | Aug 2023 - May 2025*  
+- **Bachelor of Technology, Computer Science and Engineering**  
+  *Reva Institute of Technology | Aug 2017 - Jun 2021*  
+
+---
+
+## 🔧 **Technical Projects**  
+- **Dynamic Responsive Portfolio**  
+  Created a portfolio featuring interactive 3D diagrams, motion stars, and a dark/light mode toggle using ReactJS and Tailwind CSS.  
+
+- **Most Streamed Spotify Song Analytics Model**  
+  Built a machine learning model for Spotify analytics using NumPy, Seaborn, Pandas, and Plotly Express for data visualization and classification.  
+
+---
+
+## 📜 **Certifications**  
+- **Oracle Cloud Infrastructure Generative AI Professional Certificate**  
+
+---  
+
+Feel free to connect with me for collaborations, opportunities, or discussions on emerging technologies!  
+```
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Siva Kishore Reddy</h1>
 
