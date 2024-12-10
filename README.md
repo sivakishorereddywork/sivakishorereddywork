@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Siva Kishore Reddy  
 
-**Dallas, TX** | **+1 940-595-9779** | **[Email](mailto:sivakishore.reddy.p@gmail.com)** | **[LinkedIn](#)** | **[Portfolio](https://sivakishorereddy.onrender.com/){:target="_blank"}**
+**Dallas, TX** | **+1 940-595-9779** | **[Email](mailto:sivakishore.reddy.p@gmail.com)** | **[LinkedIn](#)** | **[Portfolio](https://sivakishorereddy.onrender.com/)**
 
 </div>
 
