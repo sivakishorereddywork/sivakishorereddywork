@@ -82,7 +82,6 @@ With 2.5+ years as an Azure cloud professional, I’m transitioning into Full St
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=sivakishorereddyofficial&icon=5&color=0)](https://visitcount.itsvg.in) 
 
 <a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> 
