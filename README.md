@@ -1,4 +1,4 @@
-```markdown
+
 # Siva Kishore Reddy Putluru  
 
 **Dallas, TX** | **+1 940-595-9779** | **[Email](mailto:sivakishore.reddy.p@gmail.com)** | **[LinkedIn](#)** | **[Portfolio](#)**  
@@ -69,7 +69,7 @@ With 2.5+ years as an Azure cloud professional, I’m transitioning into Full St
 ---  
 
 Feel free to connect with me for collaborations, opportunities, or discussions on emerging technologies!  
-```
+
 
 
 
