@@ -73,8 +73,6 @@ With 2.5+ years as an Azure cloud professional, I’m transitioning into Full St
 
 ---  
 
-Feel free to connect with me for collaborations, opportunities, or discussions on emerging technologies!  
-
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> </a>
 </p>
