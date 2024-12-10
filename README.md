@@ -1,7 +1,9 @@
 <div align="center">
+
 # Siva Kishore Reddy Putluru  
 
 **Dallas, TX** | **+1 940-595-9779** | **[Email](mailto:sivakishore.reddy.p@gmail.com)** | **[LinkedIn](#)** | **[Portfolio](#)**  
+
 </div>
 ---
 
