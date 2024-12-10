@@ -79,31 +79,13 @@ Feel free to connect with me for collaborations, opportunities, or discussions o
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> </a>
 </p>
 
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Siva Kishore Reddy</h1>
-
-<!-- ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-Twitter API pricing changes Killed this tool sadly -->
-
-
-
-# 🌐 Socials:
-<a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
-<a href="https://github.com/sivakishorereddyofficial/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"> </a>
-<a href="https://sivakishorereddy.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=actigraph&logoColor=white"> </a>
-
-
-
 ---
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sivakishorereddyofficial&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sivakishorereddyofficial&icon=5&color=0)](https://visitcount.itsvg.in) 
+<a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
+<a href="https://github.com/sivakishorereddyofficial/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"> </a>
+<a href="https://sivakishorereddy.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=actigraph&logoColor=white"> </a>
