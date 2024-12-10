@@ -86,6 +86,8 @@ Feel free to connect with me for collaborations, opportunities, or discussions o
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sivakishorereddyofficial&icon=5&color=0)](https://visitcount.itsvg.in) 
-<a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a>
-<a href="https://github.com/sivakishorereddyofficial/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"> </a>
-<a href="https://sivakishorereddy.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=actigraph&logoColor=white"> </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sivakishorereddy/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sivakishorereddyofficial/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=actigraph&logoColor=white)](https://sivakishorereddy.onrender.com/)
+
