@@ -21,23 +21,8 @@ solutions. Adept at working on cutting-edge projects and delivering seamless use
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> </a>
 </p>
 
----
-
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sivakishorereddyofficial&icon=5&color=0)](https://visitcount.itsvg.in) 
-
-<a href="https://www.linkedin.com/in/sivakishorereddy/" target="_blank"> 
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/sivakishorereddyofficial/" target="_blank"> 
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
-</a>
-
-<a href="https://sivakishorereddy.onrender.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=actigraph&logoColor=white" alt="Portfolio">
-</a>
 
 
