@@ -23,6 +23,4 @@ solutions. Adept at working on cutting-edge projects and delivering seamless use
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 
----
-
 
