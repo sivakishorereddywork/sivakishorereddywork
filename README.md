@@ -9,11 +9,7 @@
 ---
 
 ## 💼 **Summary**  
-2.5+ years of experience as a Azure Cloud professional with areas of Cloud solutions, AKS Clusters,VMs, VM Scale sets, App
-services, Biceps, Kubernetes, Synapse Analytics, Cosmos, ADFs, Databricks. Strong background in Java and Python development,
-with a passion for driving innovation and collaboration in fast-paced environments. Strong background in developing web
-applications using MERN, JWT Tokens, APIs. Expertise in implementing CI/CD pipelines using Jenkins for high-quality, efficient
-solutions. Adept at working on cutting-edge projects and delivering seamless user experiences.  
+Passionate **Java Developer** with 2.5+ years of experience in building Automated client feedback workflow by developing a **Java Spring Boot application** integrated with Qualtrics **REST APIs**, enabling end-to-end s**urvey distribution** post ticket resolution. Streamlined the process with scheduled email triggers, secure API communication, and optimized SQL data handling for efficient reporting. Experienced in designing and deploying scalable cloud solutions across **Azure**, **AWS**, and GCP with a focus on automation, cost optimization, and high availability.
 
 ---  
 
