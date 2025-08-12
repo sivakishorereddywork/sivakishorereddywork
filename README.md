@@ -9,7 +9,7 @@
 ---
 
 ## 💼 **Summary**  
-Passionate **Java Developer** with 3.5+ years of experience in building Automated client feedback workflow by developing a **Java Spring Boot application** integrated with Qualtrics **REST APIs**, enabling end-to-end s**urvey distribution** post ticket resolution. Streamlined the process with scheduled email triggers, secure API communication, and optimized SQL data handling for efficient reporting. Experienced in designing and deploying scalable cloud solutions across **Azure**, **AWS**, and GCP with a focus on automation, cost optimization, and high availability.
+Passionate **Java Developer** with 5+ years of experience in building Automated client feedback workflow by developing a **Java Spring Boot application** integrated with Qualtrics **REST APIs**, enabling end-to-end s**urvey distribution** post ticket resolution. Streamlined the process with scheduled email triggers, secure API communication, and optimized SQL data handling for efficient reporting. Experienced in designing and deploying scalable cloud solutions across **Azure**, **AWS**, and GCP with a focus on automation, cost optimization, and high availability.
 
 ---  
 
