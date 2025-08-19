@@ -14,7 +14,7 @@ Passionate **Java Developer** with 5+ years of experience in building Automated 
 ---  
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> </a>
+<img src="https://github.com/sivakishorereddywork/sivakishorereddywork/blob/main/assets/grid-snake.svg"> </a>
 </p>
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
