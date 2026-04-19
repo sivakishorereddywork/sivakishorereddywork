@@ -9,7 +9,7 @@
 ---
 
 ## 💼 **Summary**  
-Passionate **Software Developer** with 5+ years of experience in building Automated client feedback workflow by developing a **Java Spring Boot application** integrated with Qualtrics **REST APIs**, enabling end-to-end s**urvey distribution** post ticket resolution. Streamlined the process with scheduled email triggers, secure API communication, and optimized SQL data handling for efficient reporting. Experienced in designing and deploying scalable cloud solutions across **Azure**, **AWS**, and GCP with a focus on automation, cost optimization, and high availability.
+Senior Full Stack Developer with 12+ years of experience building scalable, cloud-native enterprise applications across healthcare, banking, and government. Skilled in Java, Spring Boot, Kafka, AWS, React, and Angular, with strong expertise in microservices, distributed systems, DevOps, and secure architecture. Passionate about designing high-performance systems, leading technical discussions, and mentoring teams.
 
 ---  
 
