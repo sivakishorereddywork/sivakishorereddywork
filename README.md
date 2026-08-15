@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi 👋, I'm Siva Kishore Reddy  
 
@@ -19,4 +19,4 @@ Senior Full Stack Developer with 12+ years of experience building scalable, clou
 
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
 
-
+ -->
